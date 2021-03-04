@@ -1,4 +1,4 @@
-html elements are added to the content of a page to describe its structure an element consists of the opening and closing tag, usually come in pairs  there a few empty elements with no content they have one self closing tag 
+#html elements are added to the content of a page to describe its structure an element consists of the opening and closing tag, usually come in pairs  there a few empty elements with no content they have one self closing tag 
 opening tags can carry altributes which tell us more about that element and its has a name and value the value is usually given in quotes 
 
 <p class="fruit">peach</p>
